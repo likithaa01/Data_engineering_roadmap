@@ -1,0 +1,501 @@
+customer_id,customer_type,service_plan,region
+1,Enterprise,5G Unlimited,Central
+2,Enterprise,5G Unlimited,South
+3,Enterprise,Premium,Central
+4,Enterprise,5G Unlimited,East
+5,Individual,5G Unlimited,Central
+6,Individual,Premium,Central
+7,Enterprise,5G Unlimited,North
+8,Enterprise,5G Unlimited,East
+9,Individual,5G Unlimited,West
+10,Individual,Premium,North
+11,Individual,5G Unlimited,West
+12,Enterprise,Premium,South
+13,Individual,Premium,West
+14,Enterprise,Basic,Central
+15,Enterprise,Basic,West
+16,Individual,5G Unlimited,North
+17,Individual,Premium,North
+18,Enterprise,Basic,West
+19,Individual,5G Unlimited,North
+20,Individual,Basic,North
+21,Enterprise,Basic,West
+22,Individual,Premium,East
+23,Enterprise,Premium,East
+24,Enterprise,Basic,South
+25,Individual,Basic,North
+26,Enterprise,Premium,West
+27,Enterprise,5G Unlimited,North
+28,Individual,Premium,Central
+29,Individual,Basic,North
+30,Individual,5G Unlimited,North
+31,Enterprise,Basic,East
+32,Enterprise,5G Unlimited,West
+33,Individual,Basic,North
+34,Enterprise,5G Unlimited,East
+35,Individual,5G Unlimited,South
+36,Individual,Basic,East
+37,Enterprise,5G Unlimited,East
+38,Individual,Premium,East
+39,Enterprise,Basic,North
+40,Enterprise,Premium,North
+41,Individual,Basic,South
+42,Enterprise,5G Unlimited,Central
+43,Individual,5G Unlimited,Central
+44,Enterprise,5G Unlimited,Central
+45,Enterprise,Basic,South
+46,Enterprise,Premium,Central
+47,Individual,Premium,Central
+48,Enterprise,Basic,East
+49,Individual,Basic,North
+50,Enterprise,Premium,North
+51,Enterprise,Premium,East
+52,Individual,Premium,East
+53,Individual,Premium,East
+54,Individual,Basic,North
+55,Individual,Basic,Central
+56,Individual,5G Unlimited,East
+57,Enterprise,Premium,South
+58,Enterprise,5G Unlimited,East
+59,Individual,Basic,West
+60,Enterprise,Basic,East
+61,Enterprise,5G Unlimited,North
+62,Enterprise,Premium,East
+63,Individual,Premium,West
+64,Enterprise,Premium,South
+65,Enterprise,Premium,Central
+66,Enterprise,5G Unlimited,East
+67,Individual,5G Unlimited,West
+68,Enterprise,Basic,West
+69,Enterprise,Premium,South
+70,Individual,Premium,North
+71,Individual,Premium,East
+72,Enterprise,5G Unlimited,West
+73,Enterprise,Premium,South
+74,Individual,5G Unlimited,Central
+75,Individual,Premium,West
+76,Individual,Premium,South
+77,Individual,Basic,North
+78,Individual,Premium,North
+79,Individual,Premium,West
+80,Individual,Basic,West
+81,Enterprise,5G Unlimited,East
+82,Individual,5G Unlimited,South
+83,Individual,Premium,West
+84,Enterprise,5G Unlimited,East
+85,Individual,Premium,East
+86,Individual,Basic,West
+87,Enterprise,Basic,North
+88,Individual,Premium,South
+89,Enterprise,Basic,South
+90,Enterprise,Basic,North
+91,Enterprise,Premium,West
+92,Enterprise,Premium,South
+93,Individual,Basic,West
+94,Enterprise,5G Unlimited,West
+95,Enterprise,5G Unlimited,East
+96,Individual,Premium,North
+97,Enterprise,Premium,West
+98,Enterprise,5G Unlimited,Central
+99,Enterprise,Basic,North
+100,Enterprise,5G Unlimited,South
+101,Individual,5G Unlimited,East
+102,Enterprise,5G Unlimited,South
+103,Individual,5G Unlimited,South
+104,Individual,Premium,North
+105,Enterprise,Premium,South
+106,Enterprise,Basic,West
+107,Enterprise,Basic,South
+108,Enterprise,Basic,East
+109,Individual,Basic,East
+110,Individual,5G Unlimited,Central
+111,Individual,Premium,East
+112,Enterprise,Premium,South
+113,Individual,Basic,East
+114,Enterprise,Basic,North
+115,Enterprise,5G Unlimited,East
+116,Enterprise,5G Unlimited,West
+117,Enterprise,Basic,North
+118,Enterprise,Premium,Central
+119,Individual,Premium,West
+120,Individual,Premium,South
+121,Enterprise,Basic,South
+122,Individual,Premium,South
+123,Enterprise,5G Unlimited,West
+124,Enterprise,5G Unlimited,West
+125,Enterprise,Basic,West
+126,Individual,5G Unlimited,North
+127,Enterprise,Basic,North
+128,Enterprise,Premium,South
+129,Individual,Premium,East
+130,Individual,Premium,South
+131,Individual,5G Unlimited,Central
+132,Enterprise,Basic,North
+133,Enterprise,Premium,West
+134,Individual,Basic,North
+135,Enterprise,Premium,West
+136,Individual,5G Unlimited,Central
+137,Individual,5G Unlimited,Central
+138,Enterprise,Basic,North
+139,Enterprise,5G Unlimited,West
+140,Individual,5G Unlimited,Central
+141,Individual,Basic,South
+142,Individual,Premium,South
+143,Individual,5G Unlimited,West
+144,Enterprise,Basic,North
+145,Individual,5G Unlimited,Central
+146,Individual,5G Unlimited,North
+147,Individual,5G Unlimited,South
+148,Enterprise,5G Unlimited,Central
+149,Enterprise,Basic,North
+150,Individual,Basic,East
+151,Enterprise,Basic,West
+152,Enterprise,5G Unlimited,West
+153,Enterprise,5G Unlimited,East
+154,Individual,5G Unlimited,South
+155,Individual,Basic,Central
+156,Enterprise,5G Unlimited,West
+157,Individual,Premium,East
+158,Individual,5G Unlimited,East
+159,Enterprise,Premium,South
+160,Enterprise,5G Unlimited,South
+161,Individual,Basic,North
+162,Enterprise,5G Unlimited,West
+163,Individual,Premium,North
+164,Individual,Premium,East
+165,Enterprise,5G Unlimited,Central
+166,Individual,Premium,Central
+167,Individual,Premium,South
+168,Enterprise,Basic,Central
+169,Enterprise,5G Unlimited,Central
+170,Enterprise,5G Unlimited,Central
+171,Individual,5G Unlimited,East
+172,Enterprise,Premium,Central
+173,Enterprise,5G Unlimited,Central
+174,Enterprise,5G Unlimited,Central
+175,Enterprise,Basic,North
+176,Individual,Basic,East
+177,Individual,Basic,South
+178,Enterprise,Premium,North
+179,Individual,5G Unlimited,West
+180,Enterprise,Basic,East
+181,Enterprise,Basic,East
+182,Individual,Basic,West
+183,Individual,5G Unlimited,West
+184,Enterprise,5G Unlimited,West
+185,Enterprise,5G Unlimited,South
+186,Individual,Premium,Central
+187,Enterprise,Premium,East
+188,Individual,Basic,Central
+189,Enterprise,5G Unlimited,Central
+190,Enterprise,Basic,West
+191,Individual,5G Unlimited,South
+192,Individual,5G Unlimited,North
+193,Individual,5G Unlimited,South
+194,Individual,Premium,Central
+195,Individual,Premium,South
+196,Individual,5G Unlimited,West
+197,Individual,Basic,North
+198,Enterprise,5G Unlimited,West
+199,Enterprise,5G Unlimited,North
+200,Enterprise,Basic,Central
+201,Individual,5G Unlimited,North
+202,Individual,Basic,North
+203,Individual,Premium,North
+204,Enterprise,Premium,South
+205,Individual,Basic,South
+206,Individual,Premium,Central
+207,Enterprise,Premium,North
+208,Individual,Basic,East
+209,Enterprise,Premium,Central
+210,Enterprise,5G Unlimited,North
+211,Individual,5G Unlimited,North
+212,Individual,Basic,South
+213,Individual,Premium,Central
+214,Enterprise,5G Unlimited,North
+215,Enterprise,5G Unlimited,North
+216,Enterprise,Premium,Central
+217,Individual,Premium,East
+218,Individual,5G Unlimited,Central
+219,Individual,5G Unlimited,Central
+220,Individual,Basic,East
+221,Enterprise,Basic,Central
+222,Enterprise,5G Unlimited,North
+223,Enterprise,Basic,Central
+224,Enterprise,5G Unlimited,East
+225,Individual,5G Unlimited,West
+226,Individual,Basic,Central
+227,Individual,Basic,South
+228,Enterprise,Premium,North
+229,Enterprise,Premium,North
+230,Individual,Premium,South
+231,Individual,5G Unlimited,South
+232,Enterprise,Basic,Central
+233,Individual,5G Unlimited,South
+234,Enterprise,Basic,West
+235,Enterprise,5G Unlimited,East
+236,Enterprise,Premium,South
+237,Individual,Premium,South
+238,Individual,Premium,West
+239,Enterprise,5G Unlimited,North
+240,Individual,Basic,North
+241,Enterprise,Basic,Central
+242,Enterprise,Premium,West
+243,Enterprise,Premium,East
+244,Enterprise,Premium,East
+245,Individual,Premium,West
+246,Enterprise,Basic,East
+247,Enterprise,5G Unlimited,North
+248,Individual,5G Unlimited,East
+249,Enterprise,5G Unlimited,East
+250,Enterprise,5G Unlimited,West
+251,Individual,Premium,West
+252,Individual,Premium,East
+253,Individual,Premium,South
+254,Enterprise,5G Unlimited,West
+255,Individual,Premium,Central
+256,Individual,Premium,Central
+257,Enterprise,Basic,North
+258,Enterprise,Basic,East
+259,Enterprise,Premium,South
+260,Enterprise,Basic,North
+261,Enterprise,Basic,East
+262,Individual,Premium,West
+263,Individual,Premium,Central
+264,Individual,Premium,South
+265,Enterprise,Premium,Central
+266,Enterprise,5G Unlimited,West
+267,Enterprise,5G Unlimited,East
+268,Individual,Premium,West
+269,Individual,Basic,West
+270,Enterprise,Premium,Central
+271,Individual,Premium,South
+272,Enterprise,Basic,West
+273,Individual,5G Unlimited,Central
+274,Individual,Premium,South
+275,Individual,Premium,East
+276,Enterprise,5G Unlimited,East
+277,Individual,5G Unlimited,North
+278,Individual,Basic,Central
+279,Enterprise,5G Unlimited,South
+280,Individual,5G Unlimited,West
+281,Enterprise,5G Unlimited,East
+282,Enterprise,Basic,South
+283,Enterprise,5G Unlimited,Central
+284,Enterprise,5G Unlimited,North
+285,Enterprise,Basic,East
+286,Individual,5G Unlimited,South
+287,Enterprise,5G Unlimited,South
+288,Enterprise,Basic,South
+289,Enterprise,Premium,Central
+290,Enterprise,Basic,Central
+291,Individual,5G Unlimited,Central
+292,Enterprise,5G Unlimited,West
+293,Individual,5G Unlimited,South
+294,Enterprise,Basic,East
+295,Individual,5G Unlimited,Central
+296,Enterprise,5G Unlimited,Central
+297,Enterprise,Basic,South
+298,Individual,Premium,Central
+299,Enterprise,Premium,West
+300,Individual,5G Unlimited,West
+301,Enterprise,Basic,Central
+302,Individual,5G Unlimited,South
+303,Enterprise,Basic,South
+304,Enterprise,Basic,South
+305,Individual,Premium,North
+306,Enterprise,Premium,Central
+307,Enterprise,Basic,South
+308,Enterprise,5G Unlimited,West
+309,Enterprise,Premium,East
+310,Enterprise,5G Unlimited,East
+311,Enterprise,Premium,South
+312,Individual,Premium,East
+313,Individual,5G Unlimited,East
+314,Individual,Premium,North
+315,Enterprise,Premium,West
+316,Individual,5G Unlimited,West
+317,Enterprise,Premium,North
+318,Enterprise,Premium,North
+319,Enterprise,Premium,East
+320,Enterprise,5G Unlimited,Central
+321,Individual,Basic,East
+322,Enterprise,5G Unlimited,North
+323,Individual,Basic,West
+324,Enterprise,Premium,East
+325,Individual,Basic,Central
+326,Individual,5G Unlimited,East
+327,Individual,5G Unlimited,South
+328,Individual,Premium,East
+329,Individual,Basic,North
+330,Individual,Premium,West
+331,Enterprise,Premium,West
+332,Individual,5G Unlimited,North
+333,Enterprise,Basic,South
+334,Individual,Basic,North
+335,Enterprise,Basic,East
+336,Individual,Basic,North
+337,Individual,Premium,North
+338,Enterprise,Premium,South
+339,Individual,5G Unlimited,East
+340,Individual,Premium,Central
+341,Individual,Premium,Central
+342,Enterprise,5G Unlimited,West
+343,Individual,5G Unlimited,North
+344,Enterprise,5G Unlimited,West
+345,Individual,Premium,South
+346,Individual,Premium,Central
+347,Enterprise,5G Unlimited,North
+348,Individual,5G Unlimited,South
+349,Individual,5G Unlimited,South
+350,Enterprise,Premium,North
+351,Individual,Premium,South
+352,Enterprise,Basic,North
+353,Enterprise,Premium,North
+354,Enterprise,Premium,East
+355,Individual,Premium,West
+356,Enterprise,5G Unlimited,South
+357,Enterprise,Premium,South
+358,Individual,5G Unlimited,East
+359,Enterprise,Basic,East
+360,Individual,Basic,East
+361,Individual,5G Unlimited,Central
+362,Individual,5G Unlimited,Central
+363,Individual,5G Unlimited,Central
+364,Enterprise,Premium,North
+365,Enterprise,Basic,South
+366,Enterprise,5G Unlimited,West
+367,Enterprise,Premium,North
+368,Enterprise,Basic,South
+369,Individual,Premium,South
+370,Enterprise,Basic,East
+371,Enterprise,Premium,East
+372,Enterprise,Basic,North
+373,Individual,Basic,East
+374,Individual,Premium,South
+375,Enterprise,5G Unlimited,East
+376,Individual,Basic,Central
+377,Enterprise,5G Unlimited,East
+378,Enterprise,Premium,South
+379,Individual,5G Unlimited,North
+380,Individual,5G Unlimited,West
+381,Enterprise,5G Unlimited,East
+382,Enterprise,5G Unlimited,South
+383,Individual,5G Unlimited,West
+384,Enterprise,Basic,West
+385,Individual,Basic,Central
+386,Enterprise,Basic,West
+387,Individual,Premium,South
+388,Enterprise,5G Unlimited,South
+389,Enterprise,Basic,East
+390,Individual,Premium,East
+391,Enterprise,Basic,East
+392,Enterprise,Basic,West
+393,Individual,5G Unlimited,West
+394,Enterprise,Premium,Central
+395,Enterprise,5G Unlimited,East
+396,Enterprise,5G Unlimited,North
+397,Individual,Basic,Central
+398,Individual,5G Unlimited,North
+399,Individual,Premium,West
+400,Enterprise,5G Unlimited,Central
+401,Enterprise,5G Unlimited,Central
+402,Enterprise,5G Unlimited,South
+403,Enterprise,Basic,West
+404,Individual,Premium,West
+405,Enterprise,Basic,Central
+406,Enterprise,Basic,West
+407,Enterprise,Basic,Central
+408,Individual,Basic,South
+409,Enterprise,Basic,Central
+410,Enterprise,Premium,West
+411,Enterprise,5G Unlimited,West
+412,Enterprise,Basic,Central
+413,Enterprise,Basic,Central
+414,Individual,Premium,Central
+415,Enterprise,Premium,East
+416,Enterprise,5G Unlimited,West
+417,Enterprise,Premium,West
+418,Enterprise,5G Unlimited,East
+419,Enterprise,Basic,Central
+420,Enterprise,Basic,South
+421,Enterprise,5G Unlimited,Central
+422,Enterprise,Premium,Central
+423,Enterprise,5G Unlimited,East
+424,Enterprise,Premium,West
+425,Individual,Basic,Central
+426,Individual,Premium,West
+427,Individual,5G Unlimited,North
+428,Individual,5G Unlimited,West
+429,Enterprise,Basic,South
+430,Individual,Premium,South
+431,Individual,Premium,Central
+432,Enterprise,Premium,West
+433,Individual,Basic,Central
+434,Individual,Premium,East
+435,Enterprise,5G Unlimited,South
+436,Enterprise,Premium,Central
+437,Enterprise,Basic,East
+438,Individual,Premium,Central
+439,Individual,Premium,West
+440,Enterprise,5G Unlimited,West
+441,Enterprise,Premium,West
+442,Individual,5G Unlimited,West
+443,Enterprise,5G Unlimited,North
+444,Individual,Basic,East
+445,Enterprise,5G Unlimited,East
+446,Enterprise,5G Unlimited,West
+447,Individual,Basic,North
+448,Enterprise,5G Unlimited,West
+449,Enterprise,Basic,North
+450,Enterprise,Premium,West
+451,Individual,Basic,South
+452,Enterprise,5G Unlimited,South
+453,Enterprise,Basic,Central
+454,Enterprise,5G Unlimited,West
+455,Enterprise,Premium,East
+456,Enterprise,Basic,Central
+457,Enterprise,Premium,South
+458,Individual,5G Unlimited,West
+459,Individual,5G Unlimited,Central
+460,Enterprise,Premium,West
+461,Individual,Basic,South
+462,Individual,Basic,Central
+463,Enterprise,5G Unlimited,South
+464,Individual,Premium,North
+465,Individual,Premium,South
+466,Individual,Basic,West
+467,Individual,Basic,East
+468,Individual,Basic,South
+469,Individual,Premium,East
+470,Individual,Basic,North
+471,Individual,Basic,Central
+472,Enterprise,5G Unlimited,Central
+473,Enterprise,Basic,East
+474,Individual,Basic,Central
+475,Individual,Premium,South
+476,Enterprise,Premium,East
+477,Individual,5G Unlimited,West
+478,Individual,Basic,South
+479,Enterprise,5G Unlimited,South
+480,Enterprise,Premium,South
+481,Enterprise,5G Unlimited,West
+482,Individual,Premium,North
+483,Individual,5G Unlimited,Central
+484,Enterprise,5G Unlimited,East
+485,Enterprise,Basic,North
+486,Individual,5G Unlimited,East
+487,Enterprise,Basic,Central
+488,Individual,Basic,West
+489,Individual,Basic,South
+490,Enterprise,Basic,South
+491,Enterprise,5G Unlimited,West
+492,Individual,Premium,North
+493,Enterprise,Premium,North
+494,Enterprise,Premium,East
+495,Enterprise,5G Unlimited,West
+496,Enterprise,Basic,North
+497,Individual,Premium,West
+498,Individual,5G Unlimited,Central
+499,Individual,Basic,South
+500,Individual,Premium,South
