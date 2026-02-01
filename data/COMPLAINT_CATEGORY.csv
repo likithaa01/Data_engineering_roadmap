@@ -1,0 +1,6 @@
+category_id,category_name,sla_hours
+1,Call Drop,4
+2,No Signal,6
+3,Slow Internet,8
+4,Billing Issue,12
+5,Coverage Issue,10
